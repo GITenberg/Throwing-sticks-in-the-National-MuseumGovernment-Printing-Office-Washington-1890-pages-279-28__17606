@@ -1,0 +1,33 @@
+_repo: Throwing-sticks-in-the-National-MuseumGovernment-Printing-Office-Washington-1890-pages-279-28__17606
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mason, Otis Tufton
+    birthdate: 1838
+    deathdate: 1908
+    gutenberg_agent_id: '7484'
+    url: http://www.gutenberg.org/2009/agents/7484
+description: ''
+gutenberg_bookshelf:
+- Native America
+- Archaeology
+gutenberg_issued: '2006-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Throwing-sticks -- Catalogs'
+- !lcsh 'United States National Museum -- Collections'
+- !lcsh 'Eskimos -- Implements -- Catalogs'
+- !lcc 'E011'
+title: "Throwing-sticks in the National Museum\r\nThird Annual Report of the Bureau\
+  \ of Ethnology to the Secretary of the Smithsonian Institution, 1883-'84, Government\
+  \ Printing Office, Washington, 1890, pages 279-289"
+url: http://www.gutenberg.org/ebooks/17606
